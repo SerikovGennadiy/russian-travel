@@ -1,0 +1,28 @@
+@import url(../place/place.css);
+
+.places {
+  width: calc(100% - 148px * 2);
+  display: grid;
+  row-gap: 80px;
+}
+
+
+@media screen and (max-width: 1279px) {
+  .places {
+    width: calc(100% - 48px * 2);
+  }
+}
+
+
+@media screen and (max-width: 1023px) {
+  .places {
+    width: calc(100% - 24px * 2);
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .places {
+    width: 100%;
+    row-gap: 48px;
+  }
+}

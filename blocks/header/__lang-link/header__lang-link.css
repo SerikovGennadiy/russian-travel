@@ -1,0 +1,22 @@
+.header__lang-link {
+  font-family: Inter;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 28px;
+  padding-top: 3px;
+  text-align: right;
+  color: #fff;
+}
+
+.header__lang-link:hover {
+  cursor: pointer;
+}
+
+@media screen and (max-width: 768px) {
+  .header__lang-link {
+    font-size: 18px;
+    line-height: 20px;
+    padding-top: 3px;
+  }
+}
