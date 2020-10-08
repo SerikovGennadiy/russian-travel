@@ -5,7 +5,7 @@
 .cover {
   width: calc(100% - 48px * 2);
   min-height: 740px;
-  background-image: url(../../../images/cover/cover-trains.jpg);
+  background-image: url(/images/cover/cover-trains.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
