@@ -2,7 +2,6 @@
 @import url(../__link/place__link.css);
 
 .place__website {
-  justify-self: start;
   align-self: end;
 }
 
