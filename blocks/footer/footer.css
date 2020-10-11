@@ -25,6 +25,6 @@
   .footer {
     width: calc(100% - 16px * 2);
     display: grid;
-    row-gap: 48px;
+    row-gap: 35px;
   }
 }

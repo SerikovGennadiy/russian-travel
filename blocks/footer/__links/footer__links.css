@@ -1,6 +1,7 @@
 .footer__links {
-  padding:0;
-  list-style: none;
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
   display: grid;
   grid-auto-flow: column;
   column-gap: 18px;
